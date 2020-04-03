@@ -56,6 +56,8 @@ target 'appcenterSdkIntegration1' do
 
   pod 'CodePush', :path => '../node_modules/react-native-code-push'
 
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
   target 'appcenterSdkIntegration1Tests' do
     inherit! :complete
     # Pods for testing
