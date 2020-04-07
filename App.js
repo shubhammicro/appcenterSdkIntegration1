@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <View>
-        /* My App Code..  is updated */
+        /* My App Code. for demo
       </View>
     );
   }
